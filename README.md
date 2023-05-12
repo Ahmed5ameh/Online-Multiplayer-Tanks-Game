@@ -1,7 +1,11 @@
 # Online-Multiplayer-Tanks-Game
+- You will find all the PUN2 code that I used under -> Assets/Scripts/PUN_TANKS
+
+___________________________________________________________________________________________________________
+
 This is a very basic online multiplayer game created in Unity3D using PhotonPUN2 for networking.
 
-Some rules about this game:
+Some rules about the game:
 - Only the Master client sees the "Start Game" button (dimmed at first). Other clients have a "Ready" button.
 - When all clients press "Ready", the "Start Game" button gets enabled for the host, so he can start the game.
 - Players can select their desired team from a list in the main menu.
