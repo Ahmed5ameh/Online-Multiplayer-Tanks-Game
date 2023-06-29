@@ -9,7 +9,7 @@ Some rules about the game:
 - Only the Master client sees the "Start Game" button (dimmed at first). Other clients have a "Ready" button.
 - When all clients press "Ready", the "Start Game" button gets enabled for the host, so he can start the game.
 - Players can select their desired team from a list in the main menu.
-- TeamId is synced across the network.
+- TeamID is synced across the network.
 - Bullets can go through players of the same team.
 - Bullets damage players of other teams only.
 
